@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Lakshya-Inakhiya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00CDFF&center=true&vCenter=true&width=620&lines=Mathematics+%26+Computing+%40+IIT+Delhi;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Data+Structures;Turning+Markdown+%2B+LaTeX+into+clean+PDFs;Sorting%2C+hashing%2C+matrices+%E2%80%94+built+from+scratch;Heading+into+ML+next" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00CDFF&center=true&vCenter=true&width=620&lines=Mathematics+%26+Computing+%40+IIT+Delhi;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Data+Structures;Built+Ash%2C+a+talking+AI+robot;Turning+Markdown+%2B+LaTeX+into+clean+PDFs;Sorting%2C+hashing%2C+matrices+%E2%80%94+built+from+scratch;Heading+into+ML+next" alt="typing"/>
   </a>
 </p>
 
@@ -26,12 +26,31 @@
 - 🎓 Mathematics & Computing undergrad at **IIT Delhi** (2025–2029)
 - 🐍 **Python** is my main language, and I also write C++
 - 🧠 Working through DSA right now, heading into machine learning next
-- 🛠️ Built [math-pdf-builder](https://github.com/Lakshya-Inakhiya/math-pdf-builder) and [dsa-practice](https://github.com/Lakshya-Inakhiya/dsa-practice)
+- 🤖 Built [Ash](https://github.com/Lakshya-Inakhiya/Ash), a voice AI robot that started on a Raspberry Pi and now runs on the web: [try it live](https://ash-11nq.onrender.com)
+- 🛠️ Also built [math-pdf-builder](https://github.com/Lakshya-Inakhiya/math-pdf-builder) and [dsa-practice](https://github.com/Lakshya-Inakhiya/dsa-practice)
 - 📫 Open to internships
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🤖 Ash
+
+<a href="https://github.com/Lakshya-Inakhiya/Ash">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-Inakhiya&repo=Ash&theme=dracula&bg_color=0a192f&title_color=00cdff&icon_color=00cdff&text_color=e6f1ff&border_color=00cdff&v=3" alt="Ash"/>
+</a>
+
+A little robot you can talk to. Speak or type, and Ash answers using AI, then reacts with an animated face and arms: it waves when you say hi, points when you ask a question and cheers at good news. It began as my first-semester project, a physical robot on a Raspberry Pi 5 with an LCD face and servo arms. I later split it into one shared "brain" with two bodies, so the same logic drives both the real robot and a web version anyone can try.
+
+| Layer | Technology |
+|-------|------------|
+| Brain | Python: replies, face and gesture choice, model fallback |
+| AI | Groq (OpenAI-compatible API), Whisper speech-to-text, edge-tts voice |
+| Web | Gradio, animated SVG avatar, deployed on Render |
+| Hardware | Raspberry Pi 5, ILI9486 SPI LCD driver, PCA9685 servo control |
+| Quality | pytest, GitHub Actions CI |
+
+🔗 **Live:** [ash-11nq.onrender.com](https://ash-11nq.onrender.com) &nbsp;|&nbsp; 💻 **Code:** [github.com/Lakshya-Inakhiya/Ash](https://github.com/Lakshya-Inakhiya/Ash)
 
 ### 📐 math-pdf-builder
 
@@ -81,6 +100,8 @@ Data structures and algorithms written from scratch: quick/merge/heap sort, hash
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="frontend"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Gradio-0a192f?style=for-the-badge&logo=gradio&logoColor=00cdff" alt="gradio"/>
 </p>
 
 **AI / Data**
@@ -93,12 +114,19 @@ Data structures and algorithms written from scratch: quick/merge/heap sort, hash
   <img src="https://img.shields.io/badge/Claude-0a192f?style=for-the-badge&logo=anthropic&logoColor=00cdff" alt="claude"/>
   <img src="https://img.shields.io/badge/ChatGPT-0a192f?style=for-the-badge&logo=openai&logoColor=00cdff" alt="chatgpt"/>
   <img src="https://img.shields.io/badge/Grok-0a192f?style=for-the-badge&logo=x&logoColor=00cdff" alt="grok"/>
+  <img src="https://img.shields.io/badge/Groq%20API-0a192f?style=for-the-badge&logoColor=00cdff" alt="groq api"/>
+</p>
+
+**Hardware**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="raspberry pi"/>
 </p>
 
 **Dev Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,apple&theme=dark" alt="dev tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,apple&theme=dark" alt="dev tools"/>
 </p>
 
 ---
