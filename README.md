@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:ff5555&height=220&section=header&text=Lakshya%20Inakhiya&fontSize=52&fontColor=f8f8f2&fontAlignY=36&animation=twinkling&desc=Mathematics%20%26%20Computing%20%40%20IIT%20Delhi%20%E2%80%A2%202025%E2%80%932029&descSize=18&descAlignY=58" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:ff5555&height=220&section=header&text=Lakshya%20Inakhiya&fontSize=52&fontColor=f8f8f2&fontAlignY=36&animation=twinkling&desc=Mathematics%20and%20Computing%20-%20IIT%20Delhi%20-%202025-2029&descSize=18&descAlignY=58" width="100%" alt="header"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Lakshya-Inakhiya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF5555&center=true&vCenter=true&width=620&lines=Mathematics+%26+Computing+%40+IIT+Delhi;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Data+Structures;Turning+Markdown+%2B+LaTeX+into+clean+PDFs;Heaps%2C+sorting%2C+matrices+%E2%80%94+built+from+scratch;Heading+into+ML+next" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF5555&center=true&vCenter=true&width=620&lines=Mathematics+%26+Computing+%40+IIT+Delhi;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Data+Structures;Turning+Markdown+%2B+LaTeX+into+clean+PDFs;Sorting%2C+hashing%2C+matrices+%E2%80%94+built+from+scratch;Heading+into+ML+next" alt="typing"/>
   </a>
 </p>
 
@@ -49,14 +49,14 @@ const lakshya = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-Inakhiya&repo=math-pdf-builder&theme=dracula&bg_color=0d0d0d&title_color=ff5555&icon_color=ff5555&text_color=f8f8f2&border_color=ff5555" alt="math-pdf-builder"/>
 </a>
 
-Converts Markdown notes full of LaTeX math into clean, styled PDF study guides and solution sets, with KaTeX rendering fully offline. Built it for my IIT Delhi discrete math course (tutorials, quizzes and minor solutions in one PDF).
+Converts Markdown notes full of LaTeX math into clean, styled PDF study guides and solution sets, with KaTeX rendering fully offline. Started as the tool I used to build discrete math study guides for my IIT Delhi coursework.
 
 | Layer | Technology |
 |-------|------------|
 | Core | Python (`pathlib`, `re`) |
 | Math rendering | KaTeX (local, offline) |
 | Layout | HTML + CSS templates |
-| Output | HTML → PDF |
+| Output | Headless Chromium (Playwright) |
 
 🔗 **Live:** — &nbsp;|&nbsp; 💻 **Code:** [github.com/Lakshya-Inakhiya/math-pdf-builder](https://github.com/Lakshya-Inakhiya/math-pdf-builder)
 
@@ -66,12 +66,12 @@ Converts Markdown notes full of LaTeX math into clean, styled PDF study guides a
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-Inakhiya&repo=dsa-practice&theme=dracula&bg_color=0d0d0d&title_color=ff5555&icon_color=ff5555&text_color=f8f8f2&border_color=ff5555" alt="dsa-practice"/>
 </a>
 
-Data structures and algorithms written from scratch: a Coupled Heap for two-processor scheduling, quick/merge/heap sort, hashing, tree queries, and a stack of matrix and recursion problems (spiral matrix, layer rotation, Tower of Hanoi, permutations), plus C++ fundamentals.
+Data structures and algorithms written from scratch: quick/merge/heap sort, hashing, and a stack of matrix and recursion problems (spiral matrix, layer rotation, sparse matrix, Tower of Hanoi, permutations), plus C++ fundamentals.
 
 | Layer | Technology |
 |-------|------------|
 | Languages | Python, C++ |
-| Structures | Heaps, hash maps, trees, sparse matrices |
+| Structures | Heaps, hash maps, stacks, sparse matrices |
 | Algorithms | Sorting, recursion, matrix manipulation |
 | Tooling | VS Code, Git |
 
@@ -127,13 +127,13 @@ Data structures and algorithms written from scratch: a Coupled Heap for two-proc
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakshya-Inakhiya&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Lakshya-Inakhiya&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies"/>
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya-Inakhiya&bg_color=0d0d0d&color=f8f8f2&line=ff5555&point=ff5555&area=true&area_color=ff5555&title_color=ff5555&hide_border=true" alt="activity graph"/>
+  <img width="100%" src="https://ghchart.rshah.org/ff5555/Lakshya-Inakhiya" alt="contribution graph"/>
 </p>
 
 ---
