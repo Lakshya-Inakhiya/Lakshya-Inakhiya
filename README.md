@@ -36,7 +36,7 @@
 ### 📐 math-pdf-builder
 
 <a href="https://github.com/Lakshya-Inakhiya/math-pdf-builder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-Inakhiya&repo=math-pdf-builder&theme=dracula&bg_color=0a192f&title_color=00cdff&icon_color=00cdff&text_color=e6f1ff&border_color=00cdff&v=2" alt="math-pdf-builder"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-Inakhiya&repo=math-pdf-builder&theme=dracula&bg_color=0a192f&title_color=00cdff&icon_color=00cdff&text_color=e6f1ff&border_color=00cdff&v=3" alt="math-pdf-builder"/>
 </a>
 
 Converts Markdown notes full of LaTeX math into clean, styled PDF study guides and solution sets, with KaTeX rendering fully offline. Started as the tool I used to build discrete math study guides for my IIT Delhi coursework.
@@ -53,7 +53,7 @@ Converts Markdown notes full of LaTeX math into clean, styled PDF study guides a
 ### 🧮 dsa-practice
 
 <a href="https://github.com/Lakshya-Inakhiya/dsa-practice">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-Inakhiya&repo=dsa-practice&theme=dracula&bg_color=0a192f&title_color=00cdff&icon_color=00cdff&text_color=e6f1ff&border_color=00cdff&v=2" alt="dsa-practice"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-Inakhiya&repo=dsa-practice&theme=dracula&bg_color=0a192f&title_color=00cdff&icon_color=00cdff&text_color=e6f1ff&border_color=00cdff&v=3" alt="dsa-practice"/>
 </a>
 
 Data structures and algorithms written from scratch: quick/merge/heap sort, hashing, and a stack of matrix and recursion problems (spiral matrix, layer rotation, sparse matrix, Tower of Hanoi, permutations), plus C++ fundamentals.
