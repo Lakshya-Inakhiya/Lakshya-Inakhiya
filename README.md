@@ -1,52 +1,152 @@
-<h1 align="center">Lakshya Inakhiya</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=8AB4F8&center=true&vCenter=true&width=560&lines=Maths+%26+Computing+%40+IIT+Delhi;Python+%C2%B7+C%2B%2B+%C2%B7+DSA;Learning+ML+from+the+maths+up;Automating+my+life+with+AI+agents" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:ff5555&height=220&section=header&text=Lakshya%20Inakhiya&fontSize=52&fontColor=f8f8f2&fontAlignY=36&animation=twinkling&desc=Mathematics%20%26%20Computing%20%40%20IIT%20Delhi%20%E2%80%A2%202025%E2%80%932029&descSize=18&descAlignY=58" width="100%" alt="header"/>
 </p>
 
-## About
+<p align="center">
+  <a href="https://github.com/Lakshya-Inakhiya">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF5555&center=true&vCenter=true&width=620&lines=Mathematics+%26+Computing+%40+IIT+Delhi;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Data+Structures;Turning+Markdown+%2B+LaTeX+into+clean+PDFs;Heaps%2C+sorting%2C+matrices+%E2%80%94+built+from+scratch;Heading+into+ML+next" alt="typing"/>
+  </a>
+</p>
 
-```python
-@dataclass
-class Lakshya:
-    name: str = "Lakshya Inakhiya"
-    institute: str = "IIT Delhi"
-    degree: str = "B.Tech, Mathematics & Computing (2029)"
-    languages: tuple = ("Python", "C++")
-    currently_learning: tuple = ("C++", "Data Structures & Algorithms", "Machine Learning")
-    interests: tuple = ("Algorithms", "Probability", "Linear Algebra", "AI agents & automation")
-    status: str = "Building foundations"
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internships-ff5555?style=for-the-badge&labelColor=0d0d0d" alt="open to internships"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lakshya-Inakhiya&label=Profile%20views&color=ff5555&style=for-the-badge" alt="profile views"/>
+  <a href="https://github.com/Lakshya-Inakhiya?tab=followers">
+    <img src="https://img.shields.io/github/followers/Lakshya-Inakhiya?label=Followers&style=for-the-badge&color=ff5555&labelColor=0d0d0d&logo=github" alt="followers"/>
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 Who I Am
+
+```typescript
+const lakshya = {
+  title: "Mathematics & Computing Undergrad @ IIT Delhi (2025–2029)",
+  stack: {
+    languages: ["Python", "C++", "HTML/CSS", "LaTeX", "Markdown"],
+    dataAndML: ["NumPy", "Matplotlib", "OpenCV"],
+    tools: ["Git", "GitHub", "VS Code", "macOS"],
+    ai: ["Claude", "ChatGPT", "Grok"],
+  },
+  launchedProjects: ["math-pdf-builder", "dsa-practice"],
+  certifications: [],
+  status: "Grinding DSA in Python & C++, moving into machine learning",
+  openTo: ["Internships", "Open-source contributions", "ML projects"],
+};
 ```
 
-## Currently
+---
 
-- Restarting DSA properly, from the ground up
-- Learning C++ alongside Python
-- Working toward my first ML projects
+## 🚀 Featured Projects
 
-## Stack
+### 📐 math-pdf-builder
+
+<a href="https://github.com/Lakshya-Inakhiya/math-pdf-builder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-Inakhiya&repo=math-pdf-builder&theme=dracula&bg_color=0d0d0d&title_color=ff5555&icon_color=ff5555&text_color=f8f8f2&border_color=ff5555" alt="math-pdf-builder"/>
+</a>
+
+Converts Markdown notes full of LaTeX math into clean, styled PDF study guides and solution sets, with KaTeX rendering fully offline. Built it for my IIT Delhi discrete math course (tutorials, quizzes and minor solutions in one PDF).
+
+| Layer | Technology |
+|-------|------------|
+| Core | Python (`pathlib`, `re`) |
+| Math rendering | KaTeX (local, offline) |
+| Layout | HTML + CSS templates |
+| Output | HTML → PDF |
+
+🔗 **Live:** — &nbsp;|&nbsp; 💻 **Code:** [github.com/Lakshya-Inakhiya/math-pdf-builder](https://github.com/Lakshya-Inakhiya/math-pdf-builder)
+
+### 🧮 dsa-practice
+
+<a href="https://github.com/Lakshya-Inakhiya/dsa-practice">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-Inakhiya&repo=dsa-practice&theme=dracula&bg_color=0d0d0d&title_color=ff5555&icon_color=ff5555&text_color=f8f8f2&border_color=ff5555" alt="dsa-practice"/>
+</a>
+
+Data structures and algorithms written from scratch: a Coupled Heap for two-processor scheduling, quick/merge/heap sort, hashing, tree queries, and a stack of matrix and recursion problems (spiral matrix, layer rotation, Tower of Hanoi, permutations), plus C++ fundamentals.
+
+| Layer | Technology |
+|-------|------------|
+| Languages | Python, C++ |
+| Structures | Heaps, hash maps, trees, sparse matrices |
+| Algorithms | Sorting, recursion, matrix manipulation |
+| Tooling | VS Code, Git |
+
+🔗 **Live:** — &nbsp;|&nbsp; 💻 **Code:** [github.com/Lakshya-Inakhiya/dsa-practice](https://github.com/Lakshya-Inakhiya/dsa-practice)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,vscode,linux,apple&theme=dark" alt="Python, C++, Git, VS Code, Linux, macOS" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,latex,md&theme=dark" alt="languages"/>
 </p>
 
-<!-- uncomment once there are public repos
-## Stats
+**Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="frontend"/>
+</p>
+
+**AI / Data**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="opencv"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=ff5555" alt="numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0d0d0d?style=for-the-badge&logo=plotly&logoColor=ff5555" alt="matplotlib"/>
+  <img src="https://img.shields.io/badge/Claude-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=ff5555" alt="claude"/>
+  <img src="https://img.shields.io/badge/ChatGPT-0d0d0d?style=for-the-badge&logo=openai&logoColor=ff5555" alt="chatgpt"/>
+  <img src="https://img.shields.io/badge/Grok-0d0d0d?style=for-the-badge&logo=x&logoColor=ff5555" alt="grok"/>
+</p>
+
+**Dev Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,apple&theme=dark" alt="dev tools"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lakshya-Inakhiya&show_icons=true&theme=github_dark&hide_border=true&title_color=8ab4f8&icon_color=8ab4f8&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-Inakhiya&layout=compact&theme=github_dark&hide_border=true&title_color=8ab4f8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lakshya-Inakhiya&show_icons=true&theme=dracula&bg_color=0d0d0d&title_color=ff5555&icon_color=ff5555&text_color=f8f8f2&border_color=ff5555&rank_icon=github" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-Inakhiya&layout=compact&theme=dracula&bg_color=0d0d0d&title_color=ff5555&text_color=f8f8f2&border_color=ff5555" alt="top languages"/>
 </p>
--->
 
-<!-- turn on later, once there's real activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lakshya-Inakhiya&theme=github-dark-blue&hide_border=true&ring=8ab4f8&fire=8ab4f8&currStreakLabel=8ab4f8" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Lakshya-Inakhiya&theme=dracula&background=0D0D0D&border=FF5555&ring=FF5555&fire=FF5555&currStrNum=F8F8F2&sideNums=F8F8F2&currStrLabel=FF5555&sideLabels=FF5555&dates=BFBFBF&stroke=FF5555" alt="streak"/>
 </p>
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakshya-Inakhiya&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lakshya-Inakhiya&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies"/>
 </p>
+
+## 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya-Inakhiya&bg_color=0d1117&color=8ab4f8&line=8ab4f8&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya-Inakhiya&bg_color=0d0d0d&color=f8f8f2&line=ff5555&point=ff5555&area=true&area_color=ff5555&title_color=ff5555&hide_border=true" alt="activity graph"/>
 </p>
--->
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakshyainakhiya/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff5555" alt="LinkedIn"/></a>
+  <a href="https://x.com/Mr_Lakshya18"><img src="https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=ff5555" alt="X"/></a>
+  <a href="https://www.instagram.com/lakshya_inakhiya/"><img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ff5555" alt="Instagram"/></a>
+  <a href="mailto:lakshya.inakhiya10@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff5555" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5555,100:0d0d0d&height=120&section=footer" width="100%" alt="footer"/>
+</p>
